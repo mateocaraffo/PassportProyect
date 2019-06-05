@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+ background-color:wheat;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center
+}
+
+
+a {
+  color: #00B7FF;
+}
+
+#container{
+  font: 12px,
+
+}
+
+
+
+input{
+  background-color: whitesmoke
+}
